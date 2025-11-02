@@ -11,7 +11,7 @@ TIMER_KICKOUT = 5; --Thêi gian kick khái game, mÆc ®Þnh lµ 5s
 
 TAB_LIST_GAMEMASTER = {
 	{
-		Account = "gm01",
+		Account = "test01",
 		Player = {"GameMaster01", "", ""},
 		Password = "1",
 		Rank = 1,
